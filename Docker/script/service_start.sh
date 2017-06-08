@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ../../handy-project/
+cd ../../box/
 touch ScriptRunning.txt
 make run
 make organs.run
